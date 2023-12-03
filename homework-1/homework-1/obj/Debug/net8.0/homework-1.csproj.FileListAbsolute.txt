@@ -1,0 +1,14 @@
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\bin\Debug\net8.0\homework-1.exe
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\bin\Debug\net8.0\homework-1.deps.json
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\bin\Debug\net8.0\homework-1.runtimeconfig.json
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\bin\Debug\net8.0\homework-1.dll
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\bin\Debug\net8.0\homework-1.pdb
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.AssemblyInfoInputs.cache
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.AssemblyInfo.cs
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.dll
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\refint\homework-1.dll
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.pdb
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\homework-1.genruntimeconfig.cache
+C:\Users\mutlu\OneDrive\Documents\.Net Projeleri\homework-1\homework-1\obj\Debug\net8.0\ref\homework-1.dll
