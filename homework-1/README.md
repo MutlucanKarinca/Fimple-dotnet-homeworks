@@ -1,4 +1,3 @@
-![image](https://github.com/MutlucanKarinca/Fimple-dotnet-homeworks/assets/42838012/58cc98b6-c2b5-438b-8c32-cf50b48adda1)
 # Telefon Rehberi Uygulaması
 
 Bu uygulama, basit bir telefon rehberi sistemi sağlayan bir C# console uygulamasıdır. Kullanıcı, rehberdeki kişilerle ilgili çeşitli işlemleri gerçekleştirebilir.
